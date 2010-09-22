@@ -4,6 +4,9 @@
 /*
 /*****************************************************************************/
 
+/* Fonts */
+@font-face{ font-family: "steinzeit-1"; }
+
 /* Global Reset */
 
 * {
@@ -18,7 +21,7 @@ html, body {
 body {
   background-color: white;
   font-family: "gesta-1","gesta-2",sans-serif;
-  font-size: small;
+  font-size: 1em;
   text-align: center;
 }
 
@@ -58,6 +61,10 @@ table {
 /*
 /*****************************************************************************/
 
+#index{
+
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -88,8 +95,9 @@ ul.posts {
 }
 
 .yuin {
-  font-family: "bodedo-1","bodedo-2",sans-serif;
-  color: #FF4500;
+  font-family: "steinzeit-1";
+  font-size: 1.5em;
+  color: #000000;
 }
 
 .title {
@@ -124,18 +132,25 @@ ul.posts {
   .site .footer {
     font-size: 80%;
     color: #666;
+/*
     border-top: 4px solid #eee;
-    margin-top: 2em;
+*/
+    margin-top: 1em;
     overflow: hidden;
   }
 
     .site .footer .contact {
       float: left;
       margin-right: 3em;
+	  line-height: 1.4em;
     }
 
       .site .footer .contact a {
         color: #8085C1;
+      }
+ 	  .site .footer .contact table td{
+        color: #8085C1;
+		width: 70px;
       }
 
     .site .footer .rss {
