@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Context Post!
+thumbnail: http://farm2.static.flickr.com/1262/4731808343_de0e73fc30_s.jpg
+
 ---
 
 h1. {{ page.title }}
