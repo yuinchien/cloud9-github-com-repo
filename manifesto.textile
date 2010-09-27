@@ -1,0 +1,12 @@
+---
+layout: default
+title: Manifesto
+---
+
+h1. {{ page.title }}
+
+* Don't be a *Wannabee*. It's not cool.
+* 
+* 
+
+
