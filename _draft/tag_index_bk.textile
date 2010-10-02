@@ -1,0 +1,13 @@
+
+{% if page.related %}
+<span id="related">
+<h1 > Related Tags : </h1>
+<ul>
+{% for tag in page.related %}
+	<li>
+		<a href="/tag/{{ tag }}">{{ tag }}</a>
+	</li>
+{% endfor %}
+</ul>
+</span>
+{% endif %}
