@@ -4,13 +4,7 @@ title: Context Post!
 thumbnail: http://farm2.static.flickr.com/1262/4731808343_de0e73fc30_s.jpg
 ---
 
-h1. {{ page.title }}
+this is a test post for category context.
 
-h1. Context Post
-p. Hello woRLD.
 
-Process *Process* Process
 
-* an item
-* another item
-* ajksd;kas;kj
