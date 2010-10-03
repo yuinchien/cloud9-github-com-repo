@@ -2,15 +2,11 @@
 layout: post
 title: Hello World!
 thumbnail: http://farm2.static.flickr.com/1262/4731808343_de0e73fc30_s.jpg
+
+tags:
+- interaction
+- random
+
 ---
 
-h1. {{ page.title }}
-
-h1. hello world
-p. Hello woRLD.
-
-Process *Process* Process
-
-* an item
-* another item
-* ajksd;kas;kj
+Wish I have some ideas...
