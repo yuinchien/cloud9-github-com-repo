@@ -1,0 +1,25 @@
+---
+
+layout: post
+title: What is a Thesis Statement?
+
+tags:
+
+---
+
+p. Thesis statement needs to answer a question about the issue you want to explore. Define your question, and answer it. It should be one- or two-sentence *condensation* of the argument.
+
+A good thesis statement should include the following attributes:
+
+* take on a subject on which reasonable people could disagree
+* deal with a subject can be *adequately* treated
+* express *one* main idea
+* assert your conclusions about a subject
+* narrow the topic
+* Take a position on the topic
+* Use specific language
+* Make an assertion based on clearly stated support
+* Show that the topic is *controversial* to contrast your strong points
+
+
+".Link to reference":http://www.indiana.edu/~wts/pamphlets/thesis_statement.shtml#unassigned
