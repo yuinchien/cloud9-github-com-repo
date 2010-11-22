@@ -1,0 +1,10 @@
+---
+layout: post
+title: Anti-Social App
+---
+
+This application is claimed to increase your work productivity by blocking social network sites for you. Link to App Website: "(external) http://anti-social.cc":http://anti-social.cc
+
+!http://anti-social.cc.s3.amazonaws.com/img/screenshots/Facebook.png!:http://anti-social.cc/screenshots
+
+
