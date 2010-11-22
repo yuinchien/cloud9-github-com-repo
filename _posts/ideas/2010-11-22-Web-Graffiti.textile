@@ -1,0 +1,19 @@
+---
+layout: post
+title: Web Graffiti for Self-Expression
+<!-- thumbnail: http://farm2.static.flickr.com/1262/4731808343_de0e73fc30_s.jpg -->
+
+tags:
+- Gen Y
+- Graffiti
+- Browser Extension
+- HTML5 Canvas
+---
+
+*Can virtual space provide corners and walls for people to comment, to create, to shout, to be heard, to play, and to share, but in other forms of blogging or twitter feeds?*
+
+I think browser extension and html5 canvas is good platform to start, for it's ability to easily integrated with existing browser, and access to the web. 
+
+*What does it mean to do graffiti or vandalize in the browser on the web page, what are the affordances of webpages?*
+
+UI is a significant element of webpages, and with the html5 Canvas, essentially we can draw on the it.

@@ -7,6 +7,5 @@ thumbnail: http://www.flickr.com/photos/yuinchien/5084558570/
 
 <center><img src="/assets/iphone_dirtyword.png" alt="iphone_dirtyword" /></center>
 
-
 The F*ck Counter: whenever someone says the f-word, the text will enlarge and the number add up. 
 Player: "Dee":http://deekim.wordpress.com/ & me
