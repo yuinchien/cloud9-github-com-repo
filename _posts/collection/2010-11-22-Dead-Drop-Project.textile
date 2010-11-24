@@ -1,0 +1,9 @@
+---
+layout: post
+title: The World of Diminished Reality
+
+---
+
+<object width="560" height="315"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=16620712&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00ADEF&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=16620712&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00ADEF&amp;fullscreen=1&amp;autoplay=0&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="560" height="315"></embed></object><p><a href="http://vimeo.com/16620712">Dead Drops 'How to' - NYC</a> from <a href="http://vimeo.com/agoasi">aram bartholl</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Project by Aram Bartholl during his EYEBEAM residency, October 2010. From the "project website":http://deaddrops.com/dead-drops/manifesto/ , "the Dead Drop is an anonymous, offline, p2p file sharing network in public space." 
