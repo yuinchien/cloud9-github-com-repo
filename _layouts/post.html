@@ -5,19 +5,22 @@ layout: default
 <div id="{{ page.categories[0] }}" class="category">
 	
 	<div class="posts">
-		
-  	<div class="post">
-     	<div class="titleBar">
-     		<a href="{{ post.url }}">{{ page.title }}</a>
-				<span class="date">{{ page.date | date_to_string }}</span>
-     	</div>
-			<div class="content">
-				{{ content }}
-			</div>
-			<div class="tags clearfix">
-				{% for tag in page.tags %}
-				<span class="tag"><a href="/tags/{{tag}}">{{tag}}</a></span>
-				{% endfor %}
+				
+		<div class="post_container">
+
+    	<div class="post">
+       	<div class="titleBar">
+       		<a href="{{ post.url }}">{{ page.title }}</a>
+  				<span class="date">{{ page.date | date_to_string }}</span>
+       	</div>
+  			<div class="content">
+  				{{ content }}
+  			</div>
+  			<div class="tags clearfix">
+  				{% for tag in page.tags %}
+  				<span class="tag"><a href="/tags/{{tag}}">{{tag}}</a></span>
+  				{% endfor %}
+  			</div>
 			</div>
 			
 			<!-- commenting system-->
@@ -26,7 +29,7 @@ layout: default
               /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
               var disqus_shortname = 'cloud9-github-com'; // required: replace example with your forum shortname
               var disqus_developer = 1; // developer mode is on
-              
+            
               // The following are highly recommended additional parameters. Remove the slashes in front to use.
               // var disqus_identifier = 'unique_dynamic_id_1234';
               // var disqus_url = 'http://example.com/permalink-to-page.html';
@@ -42,7 +45,6 @@ layout: default
           <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a> -->
       
   	</div>
-
   </div>
 
 </div>
