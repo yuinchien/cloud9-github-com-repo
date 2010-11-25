@@ -1,0 +1,13 @@
+---
+layout: post
+title: Lit Review Statement
+
+tags:
+- Gen Y
+- Graffiti
+- Browser Extension
+- HTML5 Canvas
+- lit review
+---
+
+Why is Generation Y a depressed and anxious one? Can the web preserve an open space for Gen Y to express themselves in other forms of blog and twitter? Can Web Graffiti be a movement for self expression for our generation by providing dynamic walls for people to create, to write,to share, to be heard?

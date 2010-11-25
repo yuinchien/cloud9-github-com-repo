@@ -1,0 +1,13 @@
+---
+layout: post
+title: Digital Mould
+tags:
+- Processing.js
+- lit review
+---
+  
+<iframe src="http://player.vimeo.com/video/8065073?portrait=0&amp;color=ffffff" width="560" height="392" frameborder="0"></iframe>
+
+This is a previous project of mine, which I find it closely relates to my thesis direction. It's an experiment of treating the webpages as a physical space which presents qualities of being able to interact with objects in the environment, in this case objects are the emails. The question opens up by this project, is whether the Web could preserve more qualities or imperfections that we have in the physical world, in order to provide more contexts and ways for people to understand the virtual space and the information that lives in it.
+
+"Project Link":http://yuinchien.com/projects/16

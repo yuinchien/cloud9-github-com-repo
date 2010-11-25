@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Web Edit Chrome Extension
+title: Reference 1 - Web Edit Chrome Extension
+tags:
+- lit review
 ---
 
 <object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/Cf-LQGzB4Hg?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Cf-LQGzB4Hg?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
 
+This project demonstrates the affordances of browser extension for its ability to transform the user into an active editor and creator, instead of being the passive end user. I argue can this technology enable each web location(each url) to be a virtual space that preserves footprints and voices of people who have visited.
