@@ -1,0 +1,12 @@
+---
+layout: post
+title: Kids' Play - Beautiful Losers
+tags:
+- Graffiti
+- Play
+- Kid
+---
+
+<iframe src="http://player.vimeo.com/video/1324674?color=ffffff" width="560" height="420" frameborder="0"></iframe>
+
+"Site":http://www.beautifullosers.com/

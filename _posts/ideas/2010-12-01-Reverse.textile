@@ -1,0 +1,8 @@
+---
+layout: post
+title: Reverse
+---
+
+"Sometimes, the best way to advance is in reverse."
+- Eldad Eilam (author of the book "Reversing: Secrets of Reverse Engineering")
+
