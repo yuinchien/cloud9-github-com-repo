@@ -10,7 +10,7 @@ tags:
 
 <iframe src="http://player.vimeo.com/video/17145092?portrait=0&amp;color=ffffff" width="560" height="434" frameborder="0"></iframe>
  
-UI is essentially the a element of the web, and I wanted to explore the affordances of it with playfulness in mind. 
+UI is the essential element of the web, and I wanted to explore the playful qualities of it. 
 
 Why webpages should look the same? Can web space be less virtual by preserving the nuances and qualities that we treasure in the physical world? This Chrome Extension experiment is re-imaging the traditional UI elements in the browser, instead of having the generic looks, UI are shaped with freehand drawing strokes and the search bar is demonstrating the yawing behavior when the user opens the google page.
   

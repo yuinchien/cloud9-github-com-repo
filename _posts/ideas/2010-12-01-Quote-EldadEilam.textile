@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Reverse
+title: Quote - Eldad Eilam
+tags:
+- Graffiti
+- Quote
 ---
 
 "Sometimes, the best way to advance is in reverse."
 - Eldad Eilam (author of the book "Reversing: Secrets of Reverse Engineering")
-

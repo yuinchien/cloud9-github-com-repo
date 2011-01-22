@@ -1,0 +1,22 @@
+---
+layout: post
+title: Hacker Culture
+
+tags:
+- Hack
+
+---
+
+!http://farm6.static.flickr.com/5041/5247080193_b9988d5b28_z.jpg!
+
+1980 - 1990 Hacker Culture in Melbourne Australia 
+
+A group of teenagers formed a hacker community in Melbourne Australia who found great interest in breaking into network systems and downloading information. 
+
+On oct/16/1989, the first big hacker attack that carries political message, led by these Australian teenage hackers who took over NASA's computer in Maryland and spread this message onto the screen. 
+WANK stands for “Worms against nuclear killers.”
+At the time, NASA was using nuclear energy while people around the world felt very dangerous, and these kids were the very rare brilliant minds who got to peak inside the brain of NASA, and posed a threat in front of their face. 
+
+
+- from the book "Underground"
+- from the movie "In the Realm of Hackers"
