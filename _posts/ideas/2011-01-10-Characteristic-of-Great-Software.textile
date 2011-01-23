@@ -1,0 +1,25 @@
+---
+layout: post
+title: What's the Definition for Great Software?
+tags:
+
+---
+
+Characteristics of Great Software
+
+* High Performance
+* Ease of Use
+* Attractive Appearance
+* Reliability
+* Adaptability
+* Interoperability
+* Mobility
+
+- from "Apple Human Interface Guidelines":http://developer.apple.com/library/mac/#documentation/UserExperience/Conceptual/AppleHIGuidelines/XHIGCharGreatSoftware/XHIGCharGreatSoftware.html#//apple_ref/doc/uid/TP40002720-TPXREF101
+
+
+Thoughts: Web Interactions today happen mostly in User Interfaces. Meanwhile, Interface Design has been optimized solutions for usabilities and engineering. Today people value interface and great software design in engineering terms such as reliability, and mobility, the only design requirement is about appearance, does is look pretty? How does usability test score? 
+
+John Dewey said *"Complete adaptation to environment means death. The essential point in all response is the desire to control environment."*
+
+What interests me is Web Interaction beyond guidelines. Can we design interactions with characters and stories in mind rather than the functional aspects? 
