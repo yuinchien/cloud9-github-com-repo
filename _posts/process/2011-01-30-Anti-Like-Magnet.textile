@@ -1,0 +1,17 @@
+---
+layout: post
+title: Anti-Like Magnet
+tags:
+- Browser Extension
+- Processing.js
+---
+
+How many ads and junk information do we have to put up with everyday on the web? Why isn't there a garbage cleaner at our disposal? I realized that blocking ads is rather passive and there should be "more" to express my feeling for the ads.
+
+!http://farm6.static.flickr.com/5164/5368220531_33152d496f_b.jpg!
+
+I started this experiment with subverting web contents in mind, and chose web images to start. The experiment enables user to send out monsters to clean up images for them, and it's on Chrome Store now, you can install it here: Pixel Monster.
+
+Install the Chrome Extension from "Chrome Store":https://chrome.google.com/extensions/detail/hpcnpeooeefjifgmdnfahcmkefgmpphj?hl=en.
+
+Check out what others have eaten on "The Wall":http://monster.detourlab.com
