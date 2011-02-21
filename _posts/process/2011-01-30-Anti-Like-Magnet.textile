@@ -6,12 +6,17 @@ tags:
 - Processing.js
 ---
 
-How many ads and junk information do we have to put up with everyday on the web? Why isn't there a garbage cleaner at our disposal? I realized that blocking ads is rather passive and there should be "more" to express my feeling for the ads.
+<iframe src="http://player.vimeo.com/video/20070285?portrait=0&amp;color=ffffff" width="580" height="384" frameborder="0"></iframe>
+Introducing the "Anti-Like Magnet" for Google Chrome! Think Twice Before You Like! 
+The Anti-Like Magnet lives in your facebook margin, allowing you to magnetize and paralyze Like features. Use the magnet to enable a like-proof social network.
 
-!http://farm6.static.flickr.com/5164/5368220531_33152d496f_b.jpg!
+Install the Magnet: "http://magnet.detourlab.com":http://on.fb.me/dTtwKZ
+Visit the Magnet Wall: "http://on.fb.me/dTtwKZ":http://on.fb.me/dTtwKZ
 
-I started this experiment with subverting web contents in mind, and chose web images to start. The experiment enables user to send out monsters to clean up images for them, and it's on Chrome Store now, you can install it here: Pixel Monster.
+Magnet Website
+!http://farm5.static.flickr.com/4141/5445816104_e09ffb69d0_z.jpg!
 
-Install the Chrome Extension from "Chrome Store":https://chrome.google.com/extensions/detail/hpcnpeooeefjifgmdnfahcmkefgmpphj?hl=en.
-
-Check out what others have eaten on "The Wall":http://monster.detourlab.com
+Magnet Screenshots
+!http://farm6.static.flickr.com/5054/5449848465_73e34be53a_z.jpg!
+!http://farm6.static.flickr.com/5132/5450219646_d90a4947ae_z.jpg!
+!http://farm6.static.flickr.com/5060/5449609813_df3aa8c659_z.jpg!
